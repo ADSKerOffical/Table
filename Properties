@@ -1,0 +1,185 @@
+Properties table by ADSKer
+
+Player properties:
+
+• CharacterAutoLoads
+• Customizable
+• Description
+• ForceField
+• HumanoidDescription
+• Name
+• RobloxUserName
+• Sensitivity
+• Size
+• Health
+• MaxHealth
+• WalkSpeed
+• JumpPower
+• HipHeight
+• HumanoidRigType
+• HumanoidRootPart
+• Humanoid.Jump
+• DisplayName
+• FloorMaterial
+• HealthDisplayType
+• Dead
+• RootJoint
+• NameOcclusion
+• SimulatorRadius
+
+Physical properties:
+
+• BodyGyro
+• BodyThrust
+• BodyVelocity
+• BodyAngularVelocity
+• BodyPosition
+• BodyForce
+• Mass
+• Motor6D
+• SpringJoint
+• Weld
+
+Events:
+
+• CharacterAdded
+• HealthChanged
+• CharacterRemoved
+• MouseButton1Click
+• MouseButton2Click
+• MouseButton1Down
+• MouseButton1Up
+• MouseMoved
+• Touched
+• TouchBegan
+• TouchEnded
+• TouchTap
+• TouchLongPress
+• BreakJoints
+• Equipped
+• Unequipped
+• SendKeyEvent
+• fireclickdetector()
+• firetouchinterest()
+• setclipboard("")
+
+Other properties and functions:
+
+• Camera
+• Lighting
+• Material
+• Mesh
+• ParticleEmitter
+• SurfaceAppearance
+• TextLabel
+• Tween
+• Vector3
+• Workspace
+• Raycast
+• CFrame
+
+Console Messages
+
+• print()
+• warn()
+• error()
+
+Mathematical values
+
+• math.huge
+• math.random(x, y)
+• math.pi
+
+Scripts Delay
+
+• wait()
+• task.wait()
+• game:GetService("RunService").Heartbeat:Wait()
+• game:GetService("RunService").RenderStepped:Wait()
+
+Camera Characteristics
+
+• CameraOffset
+• FieldOfView
+• CameraType
+• CFrame
+• CamShake
+• HeadScale
+• MaxZoomDistance
+• MinZoomDistance
+
+Lighting Characteristics
+
+• FogStart
+• FogEnd
+• FogColor
+• Ambient
+• Brightness
+• GlobalShadows
+• TimeOfDay
+• OutdoorAmbient
+• ClockTime
+• Exposure
+• GeographicLatitude
+• Bloom
+• ColorShift_Bottom
+• SunRays
+• SampleRadius
+• ExposureCompensation
+• EnvironmentDiffuseScale
+
+Services
+
+• Workspace
+• CoreGui
+• StarterGui
+• ScreenGui
+• Players
+• Lighting
+• UserInputService
+• ReplicatedStorage
+• MarketplaceService
+• ReplicatedFirst
+• TeleportService
+• ContentProvider
+• PathfindingService
+• AnalyticsService
+• StarterPlayer
+• MessagingService
+• VirtualInputManager
+
+Instances
+
+• Tool
+• Part
+• ColorCorrectionEffect
+• ClickDetector
+• Animation
+• BodyAngularVelocity
+• Sound
+• Decal
+• Message
+• BasePart
+• Sky
+• Hint
+
+SetCore
+
+• SendNotification
+• TopbarEnabled
+• ResetButtonCallback
+• PlayerListEnabled
+• ChatMakeSystemMessage
+• Waypoint
+
+Backpack
+
+• MaxItems
+• Size
+• SortOrder
+• Enabled
+• ToolSlotNum
+• Name
+• MeshType
+• TeamColor
+• BackpackItems
